@@ -154,7 +154,7 @@ function esPrimo(numero) {
   } else if (numero === 2) {
     return true;
   } else if (numero > 2) {
-    for (i = 2; numero > i; i++) {
+    for (i = 3; numero > i; i = i+2) {
       if (numero % i === 0) {
         return false;
       }
