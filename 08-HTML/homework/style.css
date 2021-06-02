@@ -1,0 +1,35 @@
+body {
+    background-image: url(https://steamuserimages-a.akamaihd.net/ugc/100603690261211508/3ECEC98C7A2CFBB691AB768516FB2EA4AB520003/);
+    background-position: 20% 50%;
+    color: #ddd;
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 50px;
+}
+h1 {
+    color: #6e617f;
+}
+a {
+    color: #dfdf89;
+}
+img {
+    width: 400px;
+}
+li {
+    margin: 10px;
+}
+#thirdDiv {
+    margin: 30px auto;
+    max-height: 600px;
+    max-width: 500px;
+    background: #dfdf89;
+    padding: 50px;
+    border: 8px double #47304a;
+    font-weight: bold;
+    font-size: 16px;
+    color: #3d2f49;
+}
+#spanId {
+    margin: 50px;
+    font-size: 18px;
+}
